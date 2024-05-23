@@ -5,10 +5,6 @@ This is a reading group website prepared for the faculty and staff at University
 
 You can access the actual website using the link below:
 
-https://photonlines.github.io/Research-Lab-Website/
+[UCD Macro Environment Reading Group (v2.3.1)](https://adhikars11.github.io/ucd-macro-env/#)
 
-It was built using the libraries provided below:
-
-- [UCD Macro Environment Reading Group (v2.3.1)](https://adhikars11.github.io/ucd-macro-env/#)
-
-  Feel free to contribute to the website and send any comments/suggestions to shadhikari@ucdavis.edu. 
+Feel free to contribute to the website and send any comments/suggestions to shadhikari@ucdavis.edu. 
